@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: f0zyootqr-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/f0zyootqr-dotnet-basic
